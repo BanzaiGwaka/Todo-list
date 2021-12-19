@@ -3,9 +3,9 @@
 Prerequisite :
 - node.js
 - IDE (using VSCode)
-Run the project (using npm) in command line in the TP_TODOLIST directory :
-npm install react-icons --save
-npm install
+Run the project (using npm) in command line in the TP_TODOLIST directory :  
+npm install react-icons --save  
+npm install  
 npm start
 
 It opens a window with your favorite browser with the app running on URL : localhost:3000
@@ -19,11 +19,11 @@ Difficultés rencontrées :
 - modifier l'état des tâches
 
 Architecture : 
-src : App.js
-src/components : Todo.js
-                 TodoForm.js
-                 TodoList.js
-src/style :      App.css
+src : App.js  
+src/components : Todo.js,
+                 TodoForm.js,
+                 TodoList.js  
+                 src/style :      App.css
 
 
 # Getting Started with Create React App
